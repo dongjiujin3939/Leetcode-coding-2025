@@ -1,2 +1,2 @@
-# Leecode-coding-2025
-Leecode coding  
+# Leetcode-coding-2025
+Leetcode coding  
