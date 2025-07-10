@@ -1,9 +1,9 @@
 # Leetcode-coding-2025
 ## Documentation
 
-1.hash：：：
+1.hash
 
-#include <unordered_map> ：：：
+#include <unordered_map> 
     
     #键值对的hash映射，键唯一 
         #需要声明key和value的数据类型 
@@ -19,7 +19,7 @@
         #.size(), 返回容器元素 
         #.empty(), 容器是否为空 
         #.clear(), 清空容器 
-#include <unordered_set>：：：
+#include <unordered_set>
 
     #唯一元素的hash集合 
         #适用于检查元素是否在集合中 
